@@ -1,0 +1,46 @@
+Features:
+_____________________________
+
+User:
+Home page
+Learn page(courses explore)
+	course search with keyword
+Sign Up
+
+
+************************
+
+Admin:
+
+Course setup dashboard:
+
+Login / otp verification
+Forget Password
+Profile
+Course CRUD
+Course content upload
+
+
+
+Dashboard:
+
+manage all
+cousre management
+make new adhoc admins
+
+
+
+
+___________________________________
+
+Tech stack:
+
+Django
+Rest API
+SQLite(mysql)
+
+ReactJs
+
+
+
+
